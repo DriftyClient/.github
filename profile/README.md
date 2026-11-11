@@ -1,92 +1,52 @@
-<div align="center">
-<img src="banner.png" alt="Firefly Client" width="450">
-
-<div>
-
-## [](sobre.gif)
 
 <div align="center">
-<img src="sobre.gif" alt="Firefly Client — Sobre" width="800">
+  <img src="banner.png" alt="Drifty Client" width="450">
 </div>
 
-O **Firefly Client** é um client de Minecraft PvP para múltiplas versões (**1.8.9 ~ 1.21.4**), desenvolvido pela comunidade com foco em **performance**, **personalização** e **estabilidade**. Nosso objetivo é oferecer a melhor experiência para jogadores que buscam vantagem competitiva sem abrir mão de estilo.
 
-## [](destaques.gif)
+O **Drifty Client** é um projeto de client para Minecraft, desenvolvido com foco em **performance**, **personalização** e **estabilidade**, especialmente para jogadores que buscam uma experiência PvP fluida, moderna e competitiva.
 
-<div align="center">
-<img src="destaques.gif" alt="Firefly Client — Destaques" width="800">
-</div>
+Nossa proposta é unir **leveza, simplicidade e desempenho** em uma experiência visual limpa, sem elementos desnecessários.
 
-- **Alta performance** — Otimizações profundas para o melhor FPS
-- **Leve e estável** — Baixo consumo de recursos
-- **Multi-versão** — Suporte do Minecraft 1.8.9 até 1.21.4
-- **Atualizações constantes** — Melhorias e correções frequentes
+Os principais objetivos do nosso desenvolvimento são:
 
-## [](projetos.gif)
-
-<div align="center">
-<img src="projetos.gif" alt="Firefly Client — Projetos" width="800">
-</div>
+- **Alta performance** — Otimizações para alcançar o melhor desempenho possível
+- **Leve e estável** — Experiência fluida com baixo consumo de recursos
+- **Interface minimalista** — Design moderno, limpo e intuitivo
+- **Personalização** — Recursos para adaptar o client às preferências do jogador
+- **Experiência PvP** — Funcionalidades pensadas para jogadores competitivos
+- **Evolução contínua** — Melhorias, correções e novos recursos durante o desenvolvimento
 
 | Projeto | Descrição | Status |
 |---------|-----------|--------|
-| **Firefly Client** | Client de Minecraft PvP multi-versões (1.8.9 ~ 1.21.4) | Em desenvolvimento |
-| **Firefly Launcher** | Launcher desktop oficial do client | Em desenvolvimento |
-| **Launcher Mobile** | Launcher para dispositivos Android | Planejado |
-| **Installer** | Instalador oficial do Firefly Client | Em desenvolvimento |
+| **Drifty Client** | Client de Minecraft com foco em PvP e performance | Em desenvolvimento |
 
-## [](linguagens.gif)
-
-<div align="center">
-<img src="linguagens.gif" alt="Firefly Client — Linguagens" width="800">
-</div>
-
-<div align="center">
+Tecnologias do ecossistema de desenvolvimento Minecraft:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Ferramentas:** Gradle, Git, Mixin, OptiFine, LWJGL
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-## [](creditos.gif)
+O **Drifty Client** é construído com dedicação, criatividade e o objetivo de oferecer uma experiência de Minecraft cada vez melhor.
 
-<div align="center">
-<img src="creditos.gif" alt="Firefly Client — Créditos" width="800">
-</div>
+Agradecemos a todos que contribuem com ideias, desenvolvimento, testes e sugestões para o crescimento do projeto.
 
-<div align="center">
+Áreas de foco do desenvolvimento:
 
-| | |
-|---|---|
-| <img src="https://mc-heads.net/avatar/Pentaax/64" width="48" height="48"> | **Pentaax** — Criador • Fundador |
-| <img src="https://mc-heads.net/avatar/xymii/64" width="48" height="48"> | **xymii** — Motion Designer • Developer • Translator |
-
-</div>
-
-*A todos que contribuíram direta ou indiretamente para este projeto: muito obrigado! 🖤*
-
-## [](destaquestecnicos.gif)
-
-<div align="center">
-<img src="destaquestecnicos.gif" alt="Firefly Client — Destaques Técnicos" width="800">
-</div>
-
-- **Bytecode Manipulation** com Mixin para modificações em tempo real
-- **Renderização Otimizada** com suporte a OpenGL 2.1+ / OpenGL ES 2.0
-- **Interface Customizável** com HUD adaptável e edição ao vivo
-- **Sistema de Mods** modular com carregamento dinâmico
-- **Integração com Nametags** para exibição personalizada de nomes
+- **Otimização de renderização** para melhorar a fluidez durante o jogo
+- **Interface personalizável** com elementos visuais minimalistas
+- **Sistema modular** para organizar recursos e funcionalidades
+- **Gerenciamento eficiente de recursos** para reduzir consumo desnecessário
+- **Estabilidade** para proporcionar uma experiência consistente
 
 ---
 
 <div align="center">
 
-*Feito com 🖤 pelos desenvolvedores do Firefly Client*
+**Drifty Client**
+
+*Lightweight. Smooth. Drifty.*
 
 </div>
